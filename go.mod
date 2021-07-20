@@ -4,7 +4,7 @@ go 1.14
 
 require (
 	github.com/acarl005/stripansi v0.0.0-20180116102854-5a71ef0e047d
-	github.com/briandowns/spinner v1.12.0
+	github.com/briandowns/spinner v1.16.0
 	github.com/bwmarrin/discordgo v0.23.2
 	github.com/fatih/color v1.10.0 // indirect
 	github.com/go-telegram-bot-api/telegram-bot-api v4.6.4+incompatible
