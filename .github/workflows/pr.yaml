@@ -27,7 +27,7 @@ jobs:
       #   run: make test
 
       - name: Run GolangCI-Lint
-        uses: golangci/golangci-lint-action@v3.4.0
+        uses: golangci/golangci-lint-action@v4.0.0
         with:
           version: latest
           args: --tests=0 --timeout=30m
